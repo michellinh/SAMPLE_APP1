@@ -1,5 +1,28 @@
 vi:
-  hello: "Xin chào"
-   en: "English"
-   vi: "VietNam"
-
+  static_pages:
+    home:
+      itr_: Đây là trang chủ của
+      sample_application: ứng dụng mẫu
+    help:
+      get_help_ror: Nhận trợ giúp về Hướng dẫn Ruby on Rails tại
+      get_help_sample_app: Để nhận trợ giúp về ứng dụng mẫu này, hãy xem
+    about:
+      the_: Trang
+      part_: một phần của
+      family_: nhóm hướng dẫn
+      learn_enough: Học đủ
+      screencast_series: danh sách video bài giảng
+      is_: là một
+      and_: và
+      teach_web: để dạy phát triển web với
+      sample_app_tutorial: Đây là ứng dụng mẫu cho hướng dẫn.
+  english: Tiếng Anh
+  vietnam: Tiếng Việt
+  ror_: Hướng dẫn Ruby on rails
+  ror: Ruby on rails
+  ror_help : Phần trợ giúp của Rails Tutorial
+  book_: sách
+  home: Trang chủ
+  help: Trợ giúp
+  about: Thông tin cơ bản
+  ror_sample_app: Ứng dụng mẫu ruby on rails
