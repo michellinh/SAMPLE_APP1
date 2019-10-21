@@ -7,7 +7,6 @@ en:
       get_help_ror: Get help on the Ruby on Rails Tutorial at the
       get_help_sample_app: To get help on this sample app, see the
     about:
-      the_ : The
       part_: part of the
       family_: family of tutorials
       learn_enough: learn enough
@@ -26,3 +25,16 @@ en:
   help: Help
   about: About
   ror_sample_app: Ruby on Rails Tutorial Sample App
+  welcome_sample_app: Welcome to the Sample App
+  sample_app: Sample app
+  login : Log in
+  the_ : The
+  by_: by
+  Michael_Hartl: Michael Hartl
+  contact: Contact
+  news: News
+  contact_ror_tutorial: Contact the Ruby on Rails Tutorial about the sample app at the
+  contact_page: contact page
+  sign_up: Sign up
+  sign_up_page: This will be a signup page for new users.
+  sign_up_now: Sign up now
