@@ -7,7 +7,6 @@ vi:
       get_help_ror: Nhận trợ giúp về Hướng dẫn Ruby on Rails tại
       get_help_sample_app: Để nhận trợ giúp về ứng dụng mẫu này, hãy xem
     about:
-      the_: Trang
       part_: một phần của
       family_: nhóm hướng dẫn
       learn_enough: Học đủ
@@ -26,3 +25,16 @@ vi:
   help: Trợ giúp
   about: Thông tin cơ bản
   ror_sample_app: Ứng dụng mẫu ruby on rails
+  welcome_sample_app: chào mừng đến với ứng dụng mẫu
+  sample_app: ứng dụng mẫu
+  login: Đăng nhập
+  the_: Trang
+  by_: bằng cách
+  Michael_Hartl: Michael Hartl
+  contact: Liên hệ
+  news: Thông tin
+  contact_ror_tutorial: Liên hệ với Hướng dẫn về Ruby on Rails về ứng dụng mẫu tại
+  contact_page: trang liên hệ
+  sign_up: Đăng ký
+  sign_up_page: Đây sẽ là một trang đăng ký cho người dùng mới.
+  sign_up_now: Đăng ký ngay
