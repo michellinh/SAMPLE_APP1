@@ -7,3 +7,7 @@ railstutorialhelp: "https://www.railstutorial.org/help"
 michaelhartl: "https://www.michaelhartl.com/"
 newsrailstutorial: "https://news.railstutorial.org/"
 railtutorialcontact: "https://www.railstutorial.org/contact"
+max_name: 50
+max_email: 255
+min_password: 6
+valid_email_regex: /\A[\w+\-.]+@[a-z\d\-.]+\.[a-z]+\z/i
