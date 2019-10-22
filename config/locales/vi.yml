@@ -38,3 +38,11 @@ vi:
   sign_up: Đăng ký
   sign_up_page: Đây sẽ là một trang đăng ký cho người dùng mới.
   sign_up_now: Đăng ký ngay
+  name: Tên
+  email: Email
+  password: Mật khẩu
+  password_confirmation: Xác nhận mật khẩu
+  fail_sign_up: Đăng ký không thành công
+  size_error: Biểu mẫu có %{sum} lỗi
+  no_exist: Tài khoản không tồn tại
+  create_my_account: Tạo tài khoản
