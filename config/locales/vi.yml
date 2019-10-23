@@ -28,8 +28,8 @@ vi:
   welcome_sample_app: chào mừng đến với ứng dụng mẫu
   sample_app: ứng dụng mẫu
   login: Đăng nhập
-  the_: Trang
-  by_: bằng cách
+  the_: Trang web
+  by_: bởi
   Michael_Hartl: Michael Hartl
   contact: Liên hệ
   news: Thông tin
@@ -46,3 +46,10 @@ vi:
   size_error: Biểu mẫu có %{sum} lỗi
   no_exist: Tài khoản không tồn tại
   create_my_account: Tạo tài khoản
+  invalid_combination: Mật khẩu hoặc email không hợp lệ
+  logout: Đăng xuất
+  profile: Thông tin cá nhân
+  settings: Cài đặt
+  account: Tài khoản
+  users: Người dùng
+  new_user : Tạo tài khoản mới!!!!

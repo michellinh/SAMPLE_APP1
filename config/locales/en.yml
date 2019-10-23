@@ -46,3 +46,10 @@ en:
   size_error: The forms contains %{sum} errors
   no_exist: Account doesn't exist
   create_my_account: Create my account
+  invalid_combination : Invalid email/password combination
+  logout: Log out
+  profile : Profile
+  settings: Settings
+  account: Account
+  users: Users
+  new_user: New user????
