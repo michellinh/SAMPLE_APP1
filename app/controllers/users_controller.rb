@@ -2,6 +2,7 @@ class UsersController < ApplicationController
   def show
     @user = User.find_by id: params[:id]
     return if @user
+
     flash[:danger] = t "no_exist"
     redirect_to root_url
   end
@@ -13,6 +14,7 @@ class UsersController < ApplicationController
   def create
     @user = User.new user_params
     if @user.save
+      log_in @user
       flash.now[:success] = t "welcome_sample_app"
       redirect_to @user
     else
