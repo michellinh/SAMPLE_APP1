@@ -13,3 +13,6 @@ min_password: 6
 valid_email_regex: !ruby/regexp '/\A[\w+\-.]+@[a-z\d\-.]+\.[a-z]+\z/i'
 size: 80
 p_: 1
+gravatar_emails: "https://gravatar.com/emails"
+gravatar_size: 50
+per_page: 10

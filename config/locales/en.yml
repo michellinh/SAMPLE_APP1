@@ -54,3 +54,15 @@ en:
   users: Users
   new_user: New user????
   remember_me: Remember me on this computer
+  edit_user: Edit User
+  update_profile: Update your profile
+  save_changes: Save changes
+  change: Change
+  profile_updated: Profile updated
+  please_log_in: Please log in
+  all_users: All users
+  user_deleted: User deleted
+  delete: Delete
+  you_sure: Are you sure?
+  user_no_deleted: User doesn't delete
+  profile_no_updated: Profile doesn't update
