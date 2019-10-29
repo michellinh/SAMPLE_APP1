@@ -54,3 +54,15 @@ vi:
   users: Người dùng
   new_user : Tạo tài khoản mới!!!!
   remember_me: Lưu tài khoản nha bạn
+  edit_user: Chỉnh sửa thông tin người dùng
+  update_profile: Cập nhật hồ sơ cá nhân
+  save_changes: Lưu thay đổi
+  change: Thay đổi
+  profile_updated: Hồ sơ đã được cập nhật
+  please_log_in: Vui lòng đăng nhập
+  all_users: Tất cả người dùng
+  user_deleted: Người dùng đã bị xóa
+  delete: Xóa
+  you_sure: Bạn chắc chắn chứ
+  user_no_deleted: Người dùng không được xóa
+  profile_no_updated: Hồ sơ chưa được cập nhật
