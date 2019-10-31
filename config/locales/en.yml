@@ -25,7 +25,7 @@ en:
   help: Help
   about: About
   ror_sample_app: Ruby on Rails Tutorial Sample App
-  welcome_sample_app: Welcome to the Sample App
+  welcome_sample_app: Welcome to the Sample App!
   sample_app: Sample app
   login : Log in
   the_ : The
@@ -66,3 +66,12 @@ en:
   you_sure: Are you sure?
   user_no_deleted: User doesn't delete
   profile_no_updated: Profile doesn't update
+  click_to_activate: Click on the link below to activate your account
+  hi: Hi
+  check_mail_to_activate: Please check your email to activate your account.
+  account_activated: Account activated!
+  invalid_activation_link: Invalid activation link
+  account_not_activated_and_check_mail: "Account not activated.
+  Check your email for the activation link."
+  activate: Activate
+  account_activation: Account activation

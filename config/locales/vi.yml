@@ -66,3 +66,12 @@ vi:
   you_sure: Bạn chắc chắn chứ
   user_no_deleted: Người dùng không được xóa
   profile_no_updated: Hồ sơ chưa được cập nhật
+  click_to_activate: Chọn vào link dưới đây để kích hoạt tài khoản của bạn
+  hi: Xin chào
+  check_mail_to_activate: Vui lòng kiểm tra email để kích hoạt tài khoản của bạn
+  account_activated: Tài khoản đã được kích hoạt
+  invalid_activation_link: Link kích hoạt bị lỗi
+  account_not_activated: "Tài khoản chưa được kích hoạt,
+  vui lòng kiểm tra email để nhận link kích hoạt."
+  activate: Kích hoạt
+  account_activation: Kích hoạt tài khoản
