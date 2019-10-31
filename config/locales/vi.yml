@@ -75,3 +75,19 @@ vi:
   vui lòng kiểm tra email để nhận link kích hoạt."
   activate: Kích hoạt
   account_activation: Kích hoạt tài khoản
+  forgot_password: (Quên mật khẩu)
+  forget_password: Quên mật khẩu
+  submit: Gửi đi
+  email_instruction: Email được gửi với hướng dẫn đặt lại mật khẩu
+  email_not_found: Không tìm thấy địa chỉ email
+  password_reset: Đặt lại mật khẩu
+  reset_password: Đặt lại mật khẩu
+  reset_and_click: "Để đặt lại mật khẩu hãy nhấp vào link dưới đây:"
+  expire_and_ignore: "Link này sẽ hết hạn sau 2 giờ. Nếu bạn không yêu cầu đặt
+  lại mật khẩu, vui lòng bỏ qua email này vì mật khẩu của bạn vẫn được giữ
+  nguyên."
+  update_password: Cập nhật mật khẩu
+  can't_be_empty: Không để trống
+  password_be_reset: Mật khẩu đã được đặt lại
+  password_reset_expire: "Đặt lại mật khẩu đã hết thời gian."
+  not_found_user: Không thể tìm được người dùng sử dụng email này
