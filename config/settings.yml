@@ -16,3 +16,4 @@ p_: 1
 gravatar_emails: "https://gravatar.com/emails"
 gravatar_size: 50
 p_page: 10
+password_reset_expire: 2
