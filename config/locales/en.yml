@@ -91,3 +91,20 @@ en:
   password_be_reset: "Password has been reset."
   password_reset_expire: "Password reset has expired."
   not_found_user: Not found user who used this email
+  posted: Posted
+  ago: ago
+  microposts: Microposts
+  micropost_created: Micropost created!
+  micropost_not_created: Micropost is not created
+  view_my_profile: View my profile
+  micropost_user:
+    Microposts %{sum_post}
+  post: Post
+  compose_new_micropost: Compose new micropost....
+  micropost_feed: Micropost feed
+  micropost_deleted: Micropost deleted
+  micropost_not_deleted: Micropost is not deleted
+  must_be_valid_format: must be a valid image format
+  should_be_less_than_5MB: should be less than 5MB
+  max_file_size: Maximum file size is 5MB. Please choose a smaller file.
+  rails_logo: Rails logo

@@ -10,6 +10,7 @@ class UsersController < ApplicationController
 
   def show
     redirect_to(root_url) && return unless @user.activated?
+    @microposts = @user.microposts.page(params[:page]).per Settings.p_page
   end
 
   def new
