@@ -17,3 +17,9 @@ gravatar_emails: "https://gravatar.com/emails"
 gravatar_size: 50
 p_page: 10
 password_reset_expire: 2
+max_content: 140
+micropost_user: 50
+max_user: 50
+max_file_size: 5
+content_type: ["image/jpeg", "image/gif", "image/png"]
+limit_image: [500, 500]

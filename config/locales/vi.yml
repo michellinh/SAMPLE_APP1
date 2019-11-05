@@ -91,3 +91,20 @@ vi:
   password_be_reset: Mật khẩu đã được đặt lại
   password_reset_expire: "Đặt lại mật khẩu đã hết thời gian."
   not_found_user: Không thể tìm được người dùng sử dụng email này
+  posted: Đã đăng bài
+  ago: trước
+  microposts: Bài đăng
+  micropost_created: Bài đăng đã được tạo
+  micropost_not_created: Bài đăng không được tạo
+  view_my_profile: Xem thông tin cá nhân
+  micropost_user:
+    Số bài đăng %{sum_post}
+  post: Bài đăng
+  compose_new_micropost: Soạn bài đăng mới
+  micropost_feed: Đăng bài viết
+  micropost_deleted: Bài đăng đã bị xóa
+  micropost_not_deleted: Bài đăng không được xóa
+  must_be_valid_format: Phải là định dạng hình ảnh có hiệu lực
+  should_be_less_than_5MB: ảnh nên nhỏ hơn 5MB
+  max_file_size: Kích thước tối đa của file là 5MB. Vui lòng chọn file nhỏ hơn.
+  rails_logo: biểu tượng của rails
