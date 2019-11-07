@@ -20,6 +20,7 @@ password_reset_expire: 2
 max_content: 140
 micropost_user: 50
 max_user: 50
-max_file_size: 5
+max_file_size: 1
 content_type: ["image/jpeg", "image/gif", "image/png"]
 limit_image: [500, 500]
+gravatar_user: 30

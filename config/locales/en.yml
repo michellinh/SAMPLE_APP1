@@ -93,7 +93,7 @@ en:
   not_found_user: Not found user who used this email
   posted: Posted
   ago: ago
-  microposts: Microposts
+  microposts: "Microposts:"
   micropost_created: Micropost created!
   micropost_not_created: Micropost is not created
   view_my_profile: View my profile
@@ -105,6 +105,12 @@ en:
   micropost_deleted: Micropost deleted
   micropost_not_deleted: Micropost is not deleted
   must_be_valid_format: must be a valid image format
-  should_be_less_than_5MB: should be less than 5MB
-  max_file_size: Maximum file size is 5MB. Please choose a smaller file.
+  should_be_less_than_1MB: should be less than 1MB
+  max_file_size: Maximum file size is 1MB. Please choose a smaller file.
   rails_logo: Rails logo
+  following: Following
+  followers: Followers
+  unfollow: Unfollow
+  follow: Follow
+  not_follow: Not found this user
+  not_found_active_relationship: Not found active ralationship

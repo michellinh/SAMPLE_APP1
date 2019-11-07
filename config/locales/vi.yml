@@ -105,6 +105,12 @@ vi:
   micropost_deleted: Bài đăng đã bị xóa
   micropost_not_deleted: Bài đăng không được xóa
   must_be_valid_format: Phải là định dạng hình ảnh có hiệu lực
-  should_be_less_than_5MB: ảnh nên nhỏ hơn 5MB
-  max_file_size: Kích thước tối đa của file là 5MB. Vui lòng chọn file nhỏ hơn.
+  should_be_less_than_1MB: ảnh nên nhỏ hơn 1MB
+  max_file_size: Kích thước tối đa của file là 1MB. Vui lòng chọn file nhỏ hơn.
   rails_logo: biểu tượng của rails
+  following: Đang theo dõi
+  followers: Những người đang theo dõi
+  unfollow: Bỏ theo dõi
+  follow: Theo dõi
+  not_follow: Không tìm thấy user này
+  not_found_active_relationship: Không tìm thấy

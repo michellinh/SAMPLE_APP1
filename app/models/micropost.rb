@@ -7,9 +7,13 @@ class Micropost < ApplicationRecord
   validates :image, content_type: {in: Settings.content_type,
                                    message: I18n.t("must_be_valid_format")},
                     size: {less_than: Settings.max_file_size.megabytes,
-                           message: I18n.t("should_be_less_than_5MB")}
+                           message: I18n.t("should_be_less_than_1MB")}
 
   scope :order_by_created_at, ->{order created_at: :desc}
+  scope :feed, (lambda do |id|
+    where(user_id: Relationship.following_ids(id))
+    .or(where(user_id: id))
+  end)
 
   def display_image
     image.variant resize_to_limit: Settings.limit_image
