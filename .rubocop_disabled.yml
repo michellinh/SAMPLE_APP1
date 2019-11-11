@@ -72,3 +72,6 @@ Lint/AssignmentInCondition:
 
 Rails/HelperInstanceVariable:
   Enabled: false
+
+Rails/ReflectionClassName:
+  Enabled: false
